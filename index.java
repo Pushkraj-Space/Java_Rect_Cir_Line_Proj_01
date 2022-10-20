@@ -1,3 +1,6 @@
+// Author Pushkraj 
+// Created on 12th October 2022
+
 // import java.applet.Applet;  
 import java.awt.*;  
 import javax.swing.*;
